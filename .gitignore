@@ -1,0 +1,5 @@
+# Ignore database configuration file
+database.props
+
+# Ignore JAR files
+*.jar
