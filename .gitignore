@@ -1,5 +1,10 @@
 # Ignore database configuration file
 database.props
+EmployeeSearchFrame.class
+EmployeeSearchFram$1.class
+EmployeeSearchFram$2.class
+EmployeeSearchFram$3.class
+EmployeeSearchFram$4.class
 
 # Ignore JAR files
 *.jar
